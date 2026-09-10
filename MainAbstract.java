@@ -18,4 +18,18 @@
 //             System.out.println("car is running");
 //         }
 //     }
-
+// public class MainAbstract{
+//     public static void main(String[] args){
+//             Shape s = new child();
+//             s.reactangle();
+//             s.area();
+//     }
+//     abstract class  Shape {
+//         public void  area(){
+//             System.out.println("area*reactangle");
+//         }
+//         public  void reactangle(){
+            
+//         }
+//     }
+// }
